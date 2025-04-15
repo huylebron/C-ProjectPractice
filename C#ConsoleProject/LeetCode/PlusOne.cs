@@ -22,7 +22,7 @@ public class PlusOne
         return result;
     }
 
-    public static void Main ( string[] args )
+    public static void Main1 ( string[] args )
     {
         var plusOne = new PlusOne ( );
         int[] digits = { 1, 2, 3 };
